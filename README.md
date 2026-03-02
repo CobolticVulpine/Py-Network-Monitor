@@ -4,6 +4,7 @@ a devices IP, Hostname, Vendor, OS, Risk and Status as well as providing a count
 of online, offline and total number of devices.
 
 Risk is determained by the number of open ports on the device
+
 ports can be added or deleted using the "HIGH_RISK_PORTS" list in "netmon.py"
 
 HIGH_RISK_PORTS = [21, 23, 3389, 139, 445, 1433, 3306, 5900, 5432, 137, 138]
