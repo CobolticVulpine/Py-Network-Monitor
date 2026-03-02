@@ -18,3 +18,15 @@ You will also need to run
 in Terminal/CMD:
 
 "pip install -r requirements.txt"
+
+# Icon
+the icon for the GUI can be changed as long as the filetype is: [File_name].ico
+
+the file will need to be named "favicon_netmon" as well as the ico file being in
+the same folder as the project.
+
+the icon image can also be changed by adding a filepath to an ico file
+
+root.iconbitmap("favicon_netmon.ico") on line 157
+
+Change "favicon_netmon.ico" to a filepath to an ico file
