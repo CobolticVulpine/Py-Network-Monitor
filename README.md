@@ -22,7 +22,7 @@ in Terminal/CMD:
 
 You may also need to need to change the "SUBNET" in "netmon.py" to your own subnet mask which can be found by running in Terminal/CMD:
 
-Ipconfig
+"Ipconfig"
 
 # Icon
 the icon for the GUI can be changed as long as the filetype is: [File_name].ico
